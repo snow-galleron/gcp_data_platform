@@ -1,0 +1,16 @@
+pandas>=2.2.2
+psycopg2
+sqlalchemy>=2.0.30
+google-cloud
+google-cloud-bigquery
+google-cloud-storage
+google-cloud-secret-manager
+pyarrow
+db-dtypes
+protobuf>=4.21.6
+grpcio>=1.62.1
+setuptools
+wheel
+grpcio-tools>=1.56.2
+apache-beam[gcp]>=2.56.0
+apache-beam[postgresql]
