@@ -1,0 +1,9 @@
+pandas>=2.2.2
+psycopg2-binary
+sqlalchemy>=2.0.30
+google-cloud
+db-dtypes
+google-cloud-bigquery
+google-cloud-storage
+google-cloud-secret-manager
+pyarrow
